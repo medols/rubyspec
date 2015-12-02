@@ -1,6 +1,6 @@
 # RubySpec
 
-[![Build Status](https://travis-ci.org/ruby/rubyspec.svg)](https://travis-ci.org/ruby/rubyspec)
+[![Build Status](https://travis-ci.org/medols/rubyspec.svg)](https://travis-ci.org/medols/rubyspec)
 
 RubySpec is an executable specification for the Ruby programming language.  
 The specs describe the Ruby language syntax as well as the core and standard library classes.
