@@ -9,7 +9,7 @@ rvm:
 install:
   - git clone https://github.com/ruby/mspec.git ../mspec
 script:
-  - ../mspec/bin/mspec
+  - ../mspec/bin/mspec :language
 branches:
   only:
     - master
